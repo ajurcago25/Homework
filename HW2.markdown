@@ -3,7 +3,6 @@ layout: pages
 title: HW2
 permalink:/HW2/
 ---
-
 ### This is a heading
 
 ## Here's a smaller heading
