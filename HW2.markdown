@@ -31,7 +31,7 @@ This is a paragraph
 
 ## Table
 
-| Command | Description |
+| **Command** | Description |
 | --------- | ---------- |
 | git add | Stage changes for commit |
 | git commit | Record changes to the repository |
