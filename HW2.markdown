@@ -20,5 +20,5 @@ This is a paragraph
 
 - item 1
 - item 2
--   item a
--   item b
+  - item a
+  - item b
