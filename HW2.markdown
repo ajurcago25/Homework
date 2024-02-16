@@ -4,8 +4,6 @@ title: HW2
 permalink:/HW2/
 ---
 
-# HW2
-
 ### This is a heading
 
 ## Here's a smaller heading
@@ -18,8 +16,8 @@ This is a paragraph
 
 ### Unordered
 
-- item 1
-- item 2
+- item one
+- item two
   - item a
   - item b
 
